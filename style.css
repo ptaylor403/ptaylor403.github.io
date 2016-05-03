@@ -1,3 +1,27 @@
+body{
+  background-color: #fff;
+  background-image:
+  linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px),
+  linear-gradient(#eee .1em, transparent .1em);
+  background-size: 100% 1.2em;
+}
 h1{
-  font-family: fantasy;
+  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+  color: #6495ED;
+  text-shadow: -1px 0 black, 0 2px black, 2px 0 black, 0 -1px black;
+}
+h2{
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+}
+h3{
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+}
+p{
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+img{
+  float: left;
+  width: auto;
+  height: 500px;
+  padding:15px;
 }
