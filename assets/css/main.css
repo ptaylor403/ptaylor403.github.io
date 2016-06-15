@@ -282,3 +282,8 @@ a:after {
 sm {
 	font-size: 12px;
 }
+
+#pdf{
+  color: grey;
+  padding-right: 8px;
+}
